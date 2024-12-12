@@ -3,8 +3,8 @@
 ## Days check code
 
 
-- [x] Day 1: `print` and `input` data in terminal. **Project:** [Band Name Generator](beginner/001-band-name-generator.py)
-- [ ] Day 2:
+- [x] Day 1: `print` and `input` data in terminal. **Project:** [Gerador de nome de bandas](beginner/001-band-name-generator.py)
+- [x] Day 2: `round` and `numeric types`. **Project:** [Calculadora para dividir a conta](beginner/002-tip-calculator.py)
 - [ ] Day 3:
 - [ ] Day 4:
 - [ ] Day 5:
